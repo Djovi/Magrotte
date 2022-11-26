@@ -1,4 +1,4 @@
-# Magrotte
+# Magrotte Android Version Flutter based
 
 ![play3](https://u![play](https://user-images.githubusercontent.com/20768746/204087423-b0d8c22c-ede6-418a-844c-cdd58ac3307a.png)
 ![play9](https://user-images.githubusercontent.com/20768746/204087424-145e7c46-e001-42d4-a349-0f17627984c3.png)
